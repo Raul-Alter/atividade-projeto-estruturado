@@ -23,9 +23,26 @@ RA: 09022245
 	são o Git e o SVN. Eles registram quem fez as alterações, quando e por quê, 
 	permitindo a reversão a versões anteriores se necessário. Isso garante o 
 	controle de qualidade, a colaboração eficiente entre desenvolvedores e a 
-	estabilidade do software no decorrer do desenvolvimneto.
+	estabilidade do software no decorrer do desenvolvimento.
 
 ### 3. Por que utilizar o Git como controle de versionamento?
+	O Git é amplamente utilizado como sistema de controle de versionamento devido 
+	a várias vantagens cruciais. Primeiramente, ele oferece rastreamento preciso 
+	de mudanças em código-fonte, permitindo que desenvolvedores colaborem de 
+	forma eficaz, saibam quem alterou o quê e quando. Além disso, o Git é 
+	distribuído, o que significa que cada desenvolvedor possui uma cópia completa 
+	do histórico do projeto, melhorando a resiliência e a escalabilidade.
+	A capacidade de criar ramos independentes também é fundamental, permitindo 
+	que equipes trabalhem simultaneamente em diferentes recursos ou correções de 
+	bugs sem conflitos. A integração com plataformas de hospedagem como o GitHub 
+	e o GitLab simplifica o compartilhamento de código e a colaboração em 
+	projetos de código aberto.
+	Outra característica valiosa é a reversão simples de alterações, garantindo a 
+	segurança durante experimentações. Por fim, a natureza open-source e a ampla 
+	comunidade em torno do Git garantem suporte, documentação e constante 
+	evolução. Portanto, o Git é a escolha preferida para controle de 
+	versionamento devido à sua flexibilidade, desempenho e eficácia na gestão de 
+	código-fonte em projetos de desenvolvimento de software.
 
 ### 4. Quais as vantagens do Git?
 
