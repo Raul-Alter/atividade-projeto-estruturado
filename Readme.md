@@ -5,14 +5,16 @@ RA: 09022245
 
 
 ### 1. O que é Git?
-	O Git é um sistema de controle de versão distribuído mais comumente utilizado na gestão de
-	projetos de software. Sendo um projeto de código aberto e criado por Linus Torvalds em 2005,
-	ele permite que várias pessoas colaborem em um mesmo código, registrando e rastreando todas
-	as mudanças realizadas. Ele oferece um histórico completo e detalhado de todas as 
-	alterações, facilitando o retorno a versões anteriores , o gerenciamento de conflitos e o 
-	acompanhamento do progresso do projeto. Por operar localmente, ele permite a ramificação, 
-	fusão e controle preciso das versões do projeto. Ele é uma ferramenta fundamental para um 
-	desenvolvimento de software colaborativo e eficiente.
+	O Git é um sistema de controle de versão distribuído mais comumente utilizado 
+	na gestão de projetos de software. Sendo um projeto de código aberto e criado 
+	por Linus Torvalds em 2005,	ele permite que várias pessoas colaborem em um 
+	mesmo código, registrando e rastreando todas as mudanças realizadas. Ele 
+	oferece um histórico completo e detalhado de todas as alterações, facilitando 
+	o retorno a versões anteriores , o gerenciamento de conflitos e o 
+	acompanhamento do progresso do projeto. Por operar localmente, ele permite a 
+	ramificação, fusão e controle preciso das versões do projeto. Ele é uma 
+	ferramenta fundamental para um desenvolvimento de software colaborativo e 
+	eficiente.
 
 ### 2. O que é versionamento de software?
 	O versionamento de software é um sistema que controla e organiza diferentes 
@@ -77,5 +79,26 @@ RA: 09022245
 	e no cumprimento de regulamentações, melhorando a qualidade do software e a 
 	confiabilidade para os usuários finais.
 
-Em resumo, o controle de versionamento é uma peça fundamental no desenvolvimento de software, promovendo colaboração eficaz, rastreamento de mudanças, estabilidade e gerenciamento de código, contribuindo para o sucesso e a manutenção de um projeto de software.
 ### 6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
+	Git: O Git é um sistema de controle de versão distribuído amplamente 
+	utilizado. Ele permite que os desenvolvedores acompanhem as alterações em 
+	seus projetos por meio de "commits". O Git oferece ramificação fácil e 
+	mesclagem de código, o que facilita o trabalho colaborativo. As alterações 
+	são rastreadas em um repositório local, proporcionando flexibilidade e 
+	velocidade. Plataformas como GitHub e GitLab usam o Git para hospedar 
+	repositórios e fornecer recursos adicionais, como rastreamento de problemas e 
+	integração contínua.
+	
+	Subversion (SVN): O Subversion é um sistema de controle de versão 
+	centralizado que armazena todas as versões em um único local centralizado. 
+	Ele é conhecido por sua simplicidade e facilidade de uso. O SVN permite um 
+	controle mais estrito sobre quem pode modificar o código, o que pode ser útil
+	em ambientes com requisitos de segurança rigorosos. No entanto, a 
+	colaboração pode ser mais complicada em comparação com sistemas distribuídos 
+	como o Git.
+	
+	Mercurial: O Mercurial é outro sistema de controle de versão distribuído que 
+	se assemelha ao Git em muitos aspectos. Ele é elogiado por sua simplicidade e
+	desempenho rápido. O Mercurial possui uma curva de aprendizado suave e é uma 
+	ótima escolha para projetos menores ou equipes que preferem uma ferramenta 
+	mais simples em comparação com o Git.
