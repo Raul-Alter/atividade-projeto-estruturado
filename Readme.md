@@ -5,6 +5,14 @@ RA: 09022245
 
 
 ### 1. O que é Git?
+	O Git é um sistema de controle de versão distribuído mais comumente utilizado na gestão de
+	projetos de software. Sendo um projeto de código aberto e criado por Linus Torvalds em 2005,
+	ele permite que várias pessoas colaborem em um mesmo código, registrando e rastreando todas
+	as mudanças realizadas. Ele oferece um histórico completo e detalhado de todas as 
+	alterações, facilitando o retorno a versões anteriores , o gerenciamento de conflitos e o 
+	acompanhamento do progresso do projeto. Por operar localmente, ele permite a ramificação, 
+	fusão e controle preciso das versões do projeto. Ele é uma ferramenta fundamental para um 
+	desenvolvimento de software colaborativo e eficiente.
 
 ### 2. O que é versionamento de software?
 
