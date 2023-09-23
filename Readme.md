@@ -15,6 +15,15 @@ RA: 09022245
 	desenvolvimento de software colaborativo e eficiente.
 
 ### 2. O que é versionamento de software?
+	O versionamento de software é um sistema que controla e organiza diferentes 
+	versões de um programa de computador. Ele permite acompanhar mudanças ao 
+	longo do tempo, facilitando o desenvolvimento colaborativo e a manutenção do 
+	software. Cada versão recebe um número ou nome específico, indicando seu 
+	estado e histórico de alterações. Os sistemas de versionamento mais comuns 
+	são o Git e o SVN. Eles registram quem fez as alterações, quando e por quê, 
+	permitindo a reversão a versões anteriores se necessário. Isso garante o 
+	controle de qualidade, a colaboração eficiente entre desenvolvedores e a 
+	estabilidade do software no decorrer do desenvolvimneto.
 
 ### 3. Por que utilizar o Git como controle de versionamento?
 
