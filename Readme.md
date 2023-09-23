@@ -45,6 +45,20 @@ RA: 09022245
 	código-fonte em projetos de desenvolvimento de software.
 
 ### 4. Quais as vantagens do Git?
+	O Git oferece várias vantagens significativas para o controle de 
+	versionamento de código. Primeiramente, ele permite o rastreamento preciso 
+	das mudanças no código, facilitando a colaboração entre equipes de 
+	desenvolvimento. Sua arquitetura distribuída permite que múltiplos 
+	desenvolvedores trabalhem offline e sincronizem as alterações posteriormente.
+	Além disso, o Git oferece ramificações (branching) e mesclagens (merging) 
+	eficientes, permitindo o desenvolvimento paralelo de recursos sem conflitos 
+	frequentes. Ele também preserva o histórico completo do projeto, auxiliando 
+	na detecção de bugs e na reversão de alterações problemáticas.
+	A integração perfeita com serviços de hospedagem como o GitHub e o GitLab 
+	facilita o compartilhamento e a colaboração em projetos de código aberto e 
+	privados. Em resumo, o Git é uma ferramenta essencial para o desenvolvimento
+	de software, tornando o controle de versionamento mais eficiente, confiável 
+	e acessível a desenvolvedores em todo o mundo.
 
 ### 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?
 
