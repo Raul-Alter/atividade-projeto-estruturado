@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comandos Git Flow</title>
+</head>
+<body>
+    <h1>Comandos do Git Flow</h1>
+    <p>O Git Flow é um conjunto de convenções e extensões para o Git, ele define um conjunto de regras e um modelo para organizar o desenvolvimento em branches Git, facilitando o desenvolvimento colaborativo e o gerenciamento de versões de software. </p>
+
+    <h3>git flow init</h3>
+    <p>Inicializa um novo repositório Git para usar o Git Flow. Cria as ramificações padrões: "master", "developer", "feature/", "release/" e "hotfix/".</p>
+
+    <h3>git flow feature start nome_da_feature</h3>
+    <p>Cria uma nova ramificação para desenvolver uma nova funcionalidade, baseando-se na ramificação "develop".</p>
+
+    <h3>git flow feature finish nome_da_feature</h3>
+    <p>Conclui o desenvolvimento de uma funcionalidade. Integra a ramificação da feature de volta para a "develop".</p>
+
+    <h3>git flow release start versao_do_projeto</h3>
+    <p>Cria uma nova ramificação de lançamento para preparar uma versão para implantação. Baseia-se na "develop".</p>
+
+    <h3>git flow release finish versao_do_projeto</h3>
+    <p>Finaliza um lançamento. Integra a ramificação de lançamento na "master" para criar uma nova versão e na "develop" para manter o desenvolvimento contínuo.</p>
+
+    <h3>git flow hotfix start nome_do_hotfix</h3>
+    <p>Cria uma nova ramificação para corrigir problemas críticos na produção. Baseia-se na ramificação "master".</p>
+
+    <h3>git flow hotfix finish nome_do_hotfix</h3>
+    <p>Finaliza um hotfix. Integra a correção na "master" para garantir que a versão na produção seja atualizada e na "develop" para manter o desenvolvimento contínuo.</p>
+
+    <h3>git flow support start nome_do_suporte</h3>
+    <p>Cria uma nova ramificação de suporte para dar suporte a uma versão específica em produção. Baseia-se na "master".</p>
+
+    <h3>git flow support finish nome_do_suporte</h3>
+    <p>Finaliza a ramificação de suporte.</p>
+
+    <h3>git flow version</h3>
+    <p>Exibe a versão atual do Git Flow instalada.</p>
+</body>
+</html>
